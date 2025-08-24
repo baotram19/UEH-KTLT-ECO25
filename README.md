@@ -4,7 +4,7 @@
 
 [2025-08] UEH-KTLT-ECO25
 
-Giảng viên: Đỗ Như Tài
+Giảng viên: TS. Đỗ Như Tài
 
 Sinh viên: Nguyễn Ngọc Bảo Trâm
 
