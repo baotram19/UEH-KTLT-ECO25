@@ -32,4 +32,4 @@ Nội dung: Kỹ thuật lập trình với Stata và Python
 
 
 ## Thông tin cá nhân
-**Nguyễn Ngọc Bảo Trâm ** - MSSV: 31231023258
+**Nguyễn Ngọc Bảo Trâm** - MSSV: 31231023258
