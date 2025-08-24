@@ -12,7 +12,7 @@ Nội dung: Kỹ thuật lập trình với Stata và Python
 
 ---
 
-## App-Inventor
+## Bài tập cá nhân
 
 - [Python_for_economists](#)
 - [Bài 01: Buoi01_09082005](https://nbviewer.org/github/baotram19/UEH-KTLT-ECO25/blob/main/Buoi01_09082025/Bai01.ipynb)
