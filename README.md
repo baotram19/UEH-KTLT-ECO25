@@ -23,6 +23,8 @@ Nội dung: Kỹ thuật lập trình với Stata và Python
   + [02 KTLTSP_Cau truc du lieu](https://nbviewer.org/github/baotram19/UEH-KTLT-ECO25/blob/main/Buoi02_16082025/02%20KTLTSP_Cau%20truc%20du%20lieu.ipynb)
   + [02 KTLTSP_TH_Bai tap thuc hanh](https://nbviewer.org/github/baotram19/UEH-KTLT-ECO25/blob/main/Buoi02_16082025/02%20KTLTSP_TH_Bai%20tap%20thuc%20hanh.ipynb)
   + [Google Colab.ipynb](https://nbviewer.org/github/baotram19/UEH-KTLT-ECO25/blob/main/Buoi02_16082025/Google%20Colab.ipynb)
+  + [BT_01_python_basic](https://nbviewer.org/github/baotram19/UEH-KTLT-ECO25/blob/main/Buoi02_16082025/%5BBT%5D%2001_python_basic.ipynb)
+  + [BT_02_python_advance](https://nbviewer.org/github/baotram19/UEH-KTLT-ECO25/blob/main/Buoi02_16082025/%5BBT%5D%2002_python_advance.ipynb)
 - [Bài 03: Buoi03_23082025](#)
   + [Data Analytics & Visualization](https://nbviewer.org/github/baotram19/UEH-KTLT-ECO25/blob/main/Buoi03_23082025/Data%20Analytics%20%26%20Visualization.ipynb)
 
